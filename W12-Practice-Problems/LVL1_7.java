@@ -1,4 +1,4 @@
-public class EarthVolume {
+public class LVL1_7 {
     public static void main(String[] args) {
         double rKm = 6378;
         double pi = 3.14159;

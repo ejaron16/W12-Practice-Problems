@@ -1,4 +1,4 @@
-public class PenDistribution {
+public class LVL1_5 {
     public static void main(String[] args) {
         int pens = 14, students = 3;
         int perStudent = pens / students;

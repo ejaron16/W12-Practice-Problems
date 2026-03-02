@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ChocolateDistributor {
+public class LVL3_7tor {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of chocolates and children: ");

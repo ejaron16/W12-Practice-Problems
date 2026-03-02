@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HandshakeCalculator {
+public class LVL3_10 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of students: ");

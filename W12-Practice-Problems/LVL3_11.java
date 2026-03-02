@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WeightConverterFinal {
+public class LVL3_11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         

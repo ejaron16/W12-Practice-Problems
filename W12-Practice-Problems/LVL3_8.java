@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SimpleInterest {
+public class LVL3_8 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Principal, Rate, and Time: ");

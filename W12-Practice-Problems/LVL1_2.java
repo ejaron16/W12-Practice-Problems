@@ -1,4 +1,4 @@
-public class PCMAverage {
+public class LVL1_2 {
     public static void main(String[] args) {
         int maths = 94, physics = 95, chemistry = 96;
         double average = (maths + physics + chemistry) / 3.0;

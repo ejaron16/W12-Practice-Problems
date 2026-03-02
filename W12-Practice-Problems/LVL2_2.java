@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TriangleArea {
+public class LVL2_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter base and height in cm: ");

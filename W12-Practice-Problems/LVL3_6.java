@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AthleteRounds {
+public class LVL3_6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter three sides of the park (meters): ");
